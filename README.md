@@ -5,12 +5,12 @@ Projects made in **"Unreal 5.0 C++ Developer: Learn C++ and Make Video Games"** 
 # About the projects
 
 ## Warehouse Wreckage
-Simple game where you shoot 20 projectiles on barrels.
+> Simple game where you shoot 20 projectiles on barrels.
 If you spend all 20 projectiles, the level restarts.
 The game has no objective, unless you really like shooting stuff and see stuff fall.
 
-## game 2
-to fill
+## Obstacle Assault
+> Simple game similar to Fall Guys.
 
 # What i've learned
 
@@ -22,7 +22,7 @@ to fill
 - Variable types;
 - Another simple concepts about OOP (object oriented programming);
 
-## game 2
+## Obstacle Assault
 
 - Functions, Variables anda branches in C++; 
 - Creating a C++ Actor;
