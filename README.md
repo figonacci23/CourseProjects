@@ -1,6 +1,6 @@
 # CourseProjects
 
-Projects made in **"Unreal 5.0 C++ Developer: Learn C++ and Make Video Games"** course on Gamedev.tv
+Projects made in **"Unreal 5.0 C++ Developer: Learn C++ and Make Video Games"** course on Udemy
 
 # About the projects
 
