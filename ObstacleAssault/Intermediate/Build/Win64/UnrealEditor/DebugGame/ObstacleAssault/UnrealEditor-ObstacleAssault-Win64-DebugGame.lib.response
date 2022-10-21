@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssault-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\ObstacleAssaultEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\MovingPlatform.cpp.obj"
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\ObstacleAssault.cpp.obj"
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\MovingPlatform.gen.cpp.obj"
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\ObstacleAssault.init.gen.cpp.obj"
+"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\Default.rc2.res"
+/OUT:"C:\Users\Figo\Documents\Unreal Projects\CourseProjects\ObstacleAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\ObstacleAssault\UnrealEditor-ObstacleAssault-Win64-DebugGame.lib"

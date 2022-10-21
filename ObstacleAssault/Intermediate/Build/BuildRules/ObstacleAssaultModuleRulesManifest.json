@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Figo\\Documents\\Unreal Projects\\CourseProjects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"C:\\Users\\Figo\\Documents\\Unreal Projects\\CourseProjects\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"C:\\Users\\Figo\\Documents\\Unreal Projects\\CourseProjects\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
