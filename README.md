@@ -12,6 +12,8 @@ The game has no objective, unless you really like shooting stuff and see stuff f
 ## Obstacle Assault
 > Simple game similar to Fall Guys.
 
+## ThirdGame
+
 # What i've learned
 
 ## Warehouse Wreckage
@@ -31,3 +33,14 @@ The game has no objective, unless you really like shooting stuff and see stuff f
 - Linking Blueprint to C++;
 - Setting our own custom character class;
 
+## Third Game
+
+- Pointers and References; 
+- Actor Components and Scene Components;
+- Including header files;
+- Lighting with Lumen;
+- Modular level design;
+- Line Tracing and Colisions;
+- Arrays; 
+- For and While Loops;
+- Calling C++ functions from Blueprint;
