@@ -12,7 +12,8 @@ The game has no objective, unless you really like shooting stuff and see stuff f
 ## Obstacle Assault
 > Simple game similar to Fall Guys.
 
-## ThirdGame
+## Medieval Heist
+> Simple puzzle game where the objective is to grab the golden statue. 
 
 # What i've learned
 
@@ -33,7 +34,7 @@ The game has no objective, unless you really like shooting stuff and see stuff f
 - Linking Blueprint to C++;
 - Setting our own custom character class;
 
-## Third Game
+## Medieval Heist
 
 - Pointers and References; 
 - Actor Components and Scene Components;
